@@ -1,17 +1,14 @@
 ## Welcome to Ee Nagaram
 
-Hello
+Hello, I'm Eenagaram, I'm a web developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Knowledge on these technologies
 
-### Hello
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-* HTML
+* HTML - [HTML](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png)
 * CSS
 * JavaScript
 
