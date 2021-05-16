@@ -8,7 +8,7 @@ Hello, I'm Eenagaram, I'm a web developer.
 ```markdown
 Syntax highlighted code block
 
-* HTML - [HTML](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png)
+* HTML -  :sunglasses:
 * CSS
 * JavaScript
 
